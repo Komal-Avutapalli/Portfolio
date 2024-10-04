@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Graduate Engineer Trainee",
+    "organisation": "DigiTele Networks",
+    "startDate": "April, 2023",
+    "endDate": "Present",
+    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "UI Designer",
+    "organisation": "Mirosoft",
+    "startDate": "Aug, 2021",
+    "endDate": "Aug, 2022",
+    "experiences": ["Worked on Windows 11", "Designed the control panel"],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "Junior Engineer",
+    "organisation": "NS Instruments india pvt ltd",
+    "startDate": "Jan, 2022",
+    "endDate": "Jun, 2022",
+    "experiences": [
+      "Worked on component library",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/netflix.png"
+  }
+]
